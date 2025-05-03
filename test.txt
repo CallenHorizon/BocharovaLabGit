@@ -1,6 +1,3 @@
 EvgeniaTheBest
-<<<<<<< HEAD
-test123
-=======
 Dust to dust
->>>>>>> c8ff204be36b11997e3d90bb8234efd6e069be1f
+
